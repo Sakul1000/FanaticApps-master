@@ -14,6 +14,7 @@ EventTid = eventTid;
 EventDato = eventDato;
 EventAdresse = eventAdresse;
 EventPostnummer = eventPostnummer;
+ghghg
 */
     class RestWorker
     {
